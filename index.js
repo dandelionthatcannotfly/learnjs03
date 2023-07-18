@@ -60,3 +60,7 @@ var symbolType2=Symbol('123');
 //===严格相等
 
 console.log(symbolType1===symbolType2);
+
+
+
+//(6)查看基本数据类型
