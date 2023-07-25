@@ -25,4 +25,7 @@ main()
 /** 
  * const env={x_global:10}
  * const identifier={test}
-*/
+*/   
+
+
+//作用域和作用域链
